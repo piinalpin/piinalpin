@@ -106,8 +106,8 @@
 ##
 <h3><b><samp>Github Statistics</samp></b></h3>
 <p align="center">
-  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=piinalpin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;
-      <img height="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=piinalpin&theme=&theme=onedark&hide_border=false" />
+  <img  width="350" src="https://github-readme-stats.vercel.app/api?username=piinalpin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;
+      <img  width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=piinalpin&theme=&theme=onedark&hide_border=false" />
 </p>
 
 ##
