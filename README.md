@@ -55,10 +55,13 @@
 ##
 <h3><b><samp>Projects</samp></b></h3>
 <p align="left">
-  <img height="50px" src="./images/octomobile-logo.png"/>&nbsp;&nbsp;
-  <img height="50px" src="./images/bank-victoria-logo.png"/>&nbsp;&nbsp;
-  <img height="50px" src="./images/dplk-logo.png"/>&nbsp;&nbsp;
-  <img height="50px" src="./images/digivitation-logo.png"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/peruri-logo.jpg"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/digivitation-logo.png"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/octomobile-logo.jpg"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/bank-victoria-logo.jpg"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/myads-logo.jpg"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/thesis-project-malaria-detection.jpg"/>&nbsp;&nbsp;
+  <img height="60px" src="./images/dplk-logo.jpg"/>&nbsp;&nbsp;
 </p>
 
 ##
