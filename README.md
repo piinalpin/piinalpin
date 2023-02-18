@@ -39,6 +39,13 @@
   - <samp>Supervise member-written source code assessment</samp>
   - <samp>Develope application of <b>CIMB Niaga</b> such as Octo Mobile, Octo Clicks and ATM Business</samp>
   - <samp>Develope some feature of <b>Victoria Bank</b> (Mobile Banking)</samp>
+- 👨🏻‍🏫 &nbsp;<samp><b>Mentor of Backend Java Spring Boot [Freelance]</b> | [PT. Rahwana Teknologi Nusantara](https://rawlabs.id) (January 2023 - March 2023)</samp>
+  - Guiding, teaching, provide direction and give feedback to mentee Teaches how to be a backend java developer
+  - Assess and provide feedback for all tasks.
+  - Answering mentee questions both inside and outside class sessions.
+- 👷 &nbsp;<samp><b>Golang Developer [Freelance]</b> | [PT. Rahwana Teknologi Nusantara](https://rawlabs.id) (October 2022 - March 2023)</samp>
+  - Enhance and develop for existing ADSG Peruri project using Golang **(Echo Framework)**
+  - Create technical documentation and api documentation
 - 👨🏻‍🏫 &nbsp;<samp><b>Mentor Java Bootcamp [Kampus Merdeka]</b> | [Alterra Academy](https://academy.alterra.id) (February 2020 - July 2022)</samp>
   - <samp>Guiding, teaching, and providing direction and feedback to mentees</samp>
   - <samp>Assess and provide feedback for all tasks</samp>
