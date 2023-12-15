@@ -104,6 +104,7 @@
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![jBPM and Drools](https://img.shields.io/badge/jBPM%20and%20Drools-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
 
 <h3><b><samp>Tools and Platforms</samp></b></h3>
 
