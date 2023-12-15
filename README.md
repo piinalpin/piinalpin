@@ -32,7 +32,12 @@
 ##
 <h3><b><samp>Experiences</samp></b></h3>
 
-- 👷 &nbsp;<samp><b>Middle Java Developer</b> | [PT. Infosys Solusi Terpadu](https://ist.id) (January 2020 - present)</samp>
+- 👷 &nbsp;<samp><b>Software Developer</b> | [Mandrill Tech Sdn Bhd](https://www.mandrill.com.my/) (March 2023 - present)</samp>
+  -  <samp>Develope and enhancement existing application as a Backend</samp>
+  - <samp>Writing API Documentation and specification</samp>
+  - <samp>Involved in CO-OP Bank Pertama for financing origination system</samp>
+  - <samp>Develop work item handler using JBPM and Kie Server</samp>
+- 👷 &nbsp;<samp><b>Middle Java Developer</b> | [PT. Infosys Solusi Terpadu](https://ist.id) (January 2020 - April 2023)</samp>
   -  <samp>Lead in the development and implementation of web services</samp>
   - <samp>Designing microservice api backends for new or existing projects</samp>
   - <samp>Delegate tasks to developer members and provide suggestions and all aspects of the project</samp>
