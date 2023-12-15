@@ -67,6 +67,8 @@
 ##
 <h3><b><samp>Projects</samp></b></h3>
 <p align="left">
+  <img height="60px" src="https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/04/70acbdbe64463ffa53ca267d961d866a.jpg=s600"/>&nbsp;&nbsp;
+  <img height="60px" src="https://www.carmudi.co.id/journal/wp-content/uploads/2017/01/Auto2000-1.jpg"/>&nbsp;&nbsp;
   <img height="60px" src="./images/peruri-logo.jpg"/>&nbsp;&nbsp;
   <img height="60px" src="./images/digivitation-logo.png"/>&nbsp;&nbsp;
   <img height="60px" src="./images/octomobile-logo.jpg"/>&nbsp;&nbsp;
