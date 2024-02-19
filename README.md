@@ -37,6 +37,7 @@
   - <samp>Writing API Documentation and specification</samp>
   - <samp>Involved in CO-OP Bank Pertama for financing origination system</samp>
   - <samp>Develop work item handler using JBPM and Kie Server</samp>
+  - <samp>Involved in PRIMA project for hospital lab document using Spring Boot, Elasticsearch and Angular 15</samp>
 - 👷 &nbsp;<samp><b>Middle Java Developer</b> | [PT. Infosys Solusi Terpadu](https://ist.id) (January 2020 - April 2023)</samp>
   -  <samp>Lead in the development and implementation of web services</samp>
   - <samp>Designing microservice api backends for new or existing projects</samp>
