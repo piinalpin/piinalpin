@@ -2,20 +2,20 @@
 ## <p align="center"><h4 align="center"><samp> A Backend Developer | DevOps Enthusiast | Java &#x2022; Golang &#x2022; Python | A Competitive Programmer </samp></h4></p>
 
 <div align="center">
-  <a href="https://twitter.com/piinalpin">
-    <img align="center" alt="My Twitter" height="25px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://x.com/piinalpin">
+    <img align="center" alt="X" height="25px" width="100px" src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/piinalpin/">
-    <img align="center" alt="My Linkdein" height="25px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img align="center" alt="Linkedin" height="25px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/piinalpin">
-    <img align="center" alt="My Github" height="25px" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+    <img align="center" alt="Github" height="25px" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/piinalpin/">
-    <img align="center" alt="My Instagram" height="25px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="center" alt="Instagram" height="25px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -113,6 +113,7 @@
 ![Gin Gonic](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 <h4><b><samp>Infrastructure and Container Orchestration</samp></b></h4>
 
@@ -127,6 +128,8 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/loki-ffa500.svg?style=for-the-badge)
+![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ##
 <h3><b><samp>Tools and Platforms</samp></b></h3>
